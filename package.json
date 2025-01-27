@@ -1,24 +1,24 @@
 {
-  "name": "oloquinho",
-  "version": "1.1.1",
-  "description": "Oloquinho meu",
+  "name": "desceprabc",
+  "version": "1.0.0",
+  "description": "Descer Pra BC",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/luanorlandi/oloquinho.git"
+    "url": "git+ssh://git@github.com/wnmribeiro/desceprabc.git"
   },
-  "author": "Luan Orlandi <luanorlandi@gmail.com>",
+  "author": "William Ribeiro <wnmribeiro@gmail.com>",
   "license": "MIT",
   "bin": {
     "oloquinho": "./src/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/luanorlandi/oloquinho/issues"
+    "url": "https://github.com/wnmribeiro/desceprabcissues"
   },
-  "homepage": "https://github.com/luanorlandi/oloquinho#readme",
+  "homepage": "https://github.com/wnmribeiro/desceprabc#readme",
   "dependencies": {
     "meow": "^8.0.0"
   }

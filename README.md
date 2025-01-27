@@ -34,7 +34,7 @@ Npx:
 
 Node script:
 
-    import desceprabc from 'olodesceprabcquinho';
+    import desceprabc from 'desceprabc';
 
     desceprabc();
 
