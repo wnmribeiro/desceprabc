@@ -16,7 +16,7 @@
     "oloquinho": "./src/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/wnmribeiro/desceprabcissues"
+    "url": "https://github.com/wnmribeiro/desceprabc/issues"
   },
   "homepage": "https://github.com/wnmribeiro/desceprabc#readme",
   "dependencies": {
