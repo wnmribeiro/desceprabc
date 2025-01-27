@@ -1,6 +1,6 @@
 {
   "name": "desceprabc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Descer Pra BC",
   "main": "src/index.js",
   "scripts": {
