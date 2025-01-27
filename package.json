@@ -13,7 +13,7 @@
   "author": "William Ribeiro <wnmribeiro@gmail.com>",
   "license": "MIT",
   "bin": {
-    "oloquinho": "./src/cli.js"
+    "desceprabc": "src/cli.js"
   },
   "bugs": {
     "url": "https://github.com/wnmribeiro/desceprabc/issues"
